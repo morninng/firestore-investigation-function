@@ -1,0 +1,5 @@
+ firebase deploy --only firestore:rules
+　でfirestoreだけをdeployできる
+
+
+
